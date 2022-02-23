@@ -1,5 +1,5 @@
 package square
-
+// test
 import (
 	"math"
 )
